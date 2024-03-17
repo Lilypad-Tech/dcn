@@ -122,7 +122,7 @@ export BACALHAU_SERVE_IPFS_PATH=/tmp/gdcn/data/ipfs
 
 #### clone faucet repo
 
-The [faucet](https://github.com/bacalhau-project/eth-faucet) allows us to mint tokens for testing purposes.
+The [faucet](https://github.com/lilypad-tech/eth-faucet) allows us to mint tokens for testing purposes.
 
 We first need to clone the repo:
 
