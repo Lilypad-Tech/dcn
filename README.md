@@ -128,7 +128,7 @@ We first need to clone the repo:
 
 ```bash
 # run this command at the same level as the generic-dcn repo
-git clone git@github.com:bacalhau-project/eth-faucet.git
+git clone git@github.com:lilypad-tech/eth-faucet.git
 ```
 
 #### install stack
